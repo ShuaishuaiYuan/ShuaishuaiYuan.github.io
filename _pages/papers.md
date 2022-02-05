@@ -1,7 +1,7 @@
 ---
-title: Posts
+title: Papers
 layout: collection
-permalink: /posts/
+permalink: /papers/
 collection: posts
 entries_layout: grid
 classes: wide

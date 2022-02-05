@@ -21,7 +21,7 @@
 # The name of your site. Is used throughout the theme in places like the site masthead and <title> tags.
 title: "Shuaishuai's Webpage"
 # A short tagline that appears below the title in site masthead.
-subtitle: "Explore, discover, and teach."
+subtitle: "Broaden knowledge. Seek truth. Develop virtue."
 # Don't want to include email for now
 # email: your-email@example.com
 description: "Shuaishuai's personal webpage."
@@ -50,12 +50,15 @@ search: true
 author:
   name: "Shuaishuai Y."
   avatar: "/assets/images/bio-photo2.jpg"
-  bio: "Software Engineer" # Note: Markdown is allowed
+  bio: "An explorer in the atomic world of materials. " # Note: change to "A designer of the electronic structures of materials." in the future
   location: "Canada"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ShuaishuaiYuan"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.ca/citations?user=VV2o-ysAAAAJ&hl=en"
 
 # The most important is `jekyll-include-cache`, otherwise, github pages won't built
 # even though it works locally.

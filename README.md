@@ -37,6 +37,12 @@ eval "$(rbenv init -)"
 
 ### Build and Run
 
+Install bundle packages:
+
+```
+bundle install
+```
+
 Build and run site locally:
 
 ```
