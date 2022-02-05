@@ -98,6 +98,12 @@ exclude:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# Collections
+collections:
+  talks:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _pages
   - scope:
@@ -114,7 +120,18 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
+      comments: false
+      share: true
+      related: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
       comments: false
       share: true
       related: true

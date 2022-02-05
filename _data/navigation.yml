@@ -1,5 +1,7 @@
 main:
   - title: "Papers"
     url: /papers/
+  - title: "Talks"
+    url: /talks/
   - title: "About"
     url: /about/
