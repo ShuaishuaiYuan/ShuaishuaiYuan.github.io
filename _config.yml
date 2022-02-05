@@ -48,7 +48,7 @@ minimal_mistakes_skin: "aqua"
 search: true
 # Used as the defaults for defining what appears in the author sidebar.
 author:
-  name: "Shuaishuai Y."
+  name: "Shuaishuai Yuan"
   avatar: "/assets/images/bio-photo2.jpg"
   bio: "An explorer in the atomic world of materials. " # Note: change to "A designer of the electronic structures of materials." in the future
   location: "Canada"
