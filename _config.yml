@@ -60,6 +60,12 @@ author:
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.ca/citations?user=VV2o-ysAAAAJ&hl=en"
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: G-KRE20Q30LF
+    anonymize_ip: true
+
 # The most important is `jekyll-include-cache`, otherwise, github pages won't built
 # even though it works locally.
 # https://github.com/mmistakes/minimal-mistakes/issues/1875
