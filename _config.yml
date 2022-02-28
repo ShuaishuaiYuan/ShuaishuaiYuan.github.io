@@ -53,12 +53,15 @@ author:
   bio: "An explorer in the atomic world of materials. " # Note: change to "A designer of the electronic structures of materials." in the future
   location: "Canada"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ShuaishuaiYuan"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/ShuaishuaiYuan"
     - label: "Google Scholar"
-      icon: "fas fa-graduation-cap"
+      icon: "fas fa-graduation-cap" 
       url: "https://scholar.google.ca/citations?user=VV2o-ysAAAAJ&hl=en"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/shuaishuai-yuan/"    
 
 analytics:
   provider: "google-gtag"
