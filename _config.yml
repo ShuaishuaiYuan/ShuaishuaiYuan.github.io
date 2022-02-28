@@ -62,6 +62,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/shuaishuai-yuan/"    
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0001-8999-5814/"    
 
 analytics:
   provider: "google-gtag"
