@@ -147,3 +147,14 @@ defaults:
       comments: false
       share: true
       related: true
+  # _links
+  - scope:
+      path: ""
+      type: links
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: true

@@ -40,6 +40,7 @@ eval "$(rbenv init -)"
 Install bundle packages:
 
 ```
+bundle update
 bundle install
 ```
 
