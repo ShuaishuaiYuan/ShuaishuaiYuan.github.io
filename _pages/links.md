@@ -8,6 +8,7 @@ title: Favorate Webpages
 ---
 ### News
 * [Physics World](https://physicsworld.com/)
+* [Physics Today](https://pubs.aip.org/physicstoday/issue)
 * [Techxplore](https://techxplore.com/)
 * [The McGill Tribune](https://www.thetribune.ca/)
 
