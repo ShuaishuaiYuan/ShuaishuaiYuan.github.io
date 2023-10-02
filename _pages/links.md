@@ -15,3 +15,6 @@ title: Favorate Webpages
 ### Favorite Personal Blogs
 * [Qijing Zheng](http://staff.ustc.edu.cn/~zqj/post/)
 * [Danny Vanpoucke](https://dannyvanpoucke.be/blog-en/)
+
+### Plotting Tips
+* [Subplots](https://python-course.eu/numerical-programming/creating-subplots-in-matplotlib.php)
