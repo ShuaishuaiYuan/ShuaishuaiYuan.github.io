@@ -1,12 +1,20 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-permalink: /research/
-layout: single
-author_profile: true
 title: Research
+layout: collection
+permalink: /research/
+author_profile: true
 ---
 
-Hi there. My name is Shuaishuai.
+## Electron-Phonon Coupling
 
-Welcome to my web page!
+
+## Quantum Defects
+
+
+## Energy Materials 
+
+
+
+

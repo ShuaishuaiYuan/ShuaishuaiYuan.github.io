@@ -1,9 +1,12 @@
 main:
   - title: "Papers"
     url: /papers/
+#  - title: "Research"
+#    url: /research/
   - title: "Talks"
     url: /talks/
   - title: "Links"
     url: /links/
   - title: "About"
     url: /about/
+
