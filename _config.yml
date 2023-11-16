@@ -115,6 +115,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  teaching:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _pages
@@ -158,3 +161,14 @@ defaults:
       comments: false
       share: true
       related: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
