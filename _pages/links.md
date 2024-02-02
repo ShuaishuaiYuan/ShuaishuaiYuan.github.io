@@ -12,7 +12,7 @@ author_profile: true
 * [Physics World](https://physicsworld.com/)
 * [Physics Today](https://pubs.aip.org/physicstoday/issue)
 * [Techxplore](https://techxplore.com/)
-* [The McGill Daily](https://issuu.com/mcgilldaily/docs/tmd_20231016)
+* [The McGill Daily](https://issuu.com/mcgilldaily)
 * [The McGill Tribune](https://www.thetribune.ca/)
 
 
