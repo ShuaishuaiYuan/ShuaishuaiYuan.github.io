@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Teaching | Self-learning
 layout: collection
 permalink: /teaching/
 collection: teaching
