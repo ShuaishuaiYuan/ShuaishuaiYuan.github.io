@@ -20,15 +20,6 @@ classical molecular dynamics study of F+‐centers in NaCl. [Phys. Rev. Mater. 6
 
 ---
 
-## Computational Energy Materials
-
-*Related Publications:*
-- J. Shirani, H.D. Pham, S. Yuan, A. B. Tchagang, J. J. Valdés, and K. H. Bevan. Machine Learning Based Electronic Structure Predictors in Single‐Atom Alloys: A Model Study of CO Kink‐Site Adsorption across Transition Metal Substrates. [The Journal of Physical Chemistry C (2023)](https://doi.org/10.1021/acs.jpcc.3c02705)
-- Y. W. Foong, J. Shirani, S. Yuan, C. A. Howard, K. H. Bevan. Towards a Pseudocapacitive Battery: Benchmarking the Capabilities of Quantized Capacitance for Energy Storage. [PRX Energy 1.1 (2022): 013007.](https://doi.org/10.1103/PRXEnergy.1.013007)
-- A. Iqbal, S. Yuan, Z. Wang, and K. H. Bevan. The impact of bulk trapping phenomena on the maximum attainable photovoltage of semiconductor‐liquid interfaces. [The Journal of Physical Chemistry C 122.42 (2018): 23878‐23889.](https://doi.org/10.1021/acs.jpcc.8b06854)
-
----
-
 ## Defects in Semiconductors | Quantum Defects
 
 *Related Publications:*
@@ -39,6 +30,16 @@ migration at the nanoscale in inorganic perovskites. [Nano Letters 20.10 (2020):
 - H. Zheng, S. Valtierra, N. Ofori‐Opoku, C. Chen, L. Sun, S. Yuan, L. Jiao, K.H. Bevan and C. Tao, Electrical stressing induced monolayer vacancy island growth on TiSe2. [Nano letters 18.3 (2018): 2179‐2185.](https://doi.org/10.1021/acs.nanolett.8b00515)
 
 ---
+
+## Computational Energy Materials
+
+*Related Publications:*
+- J. Shirani, H.D. Pham, S. Yuan, A. B. Tchagang, J. J. Valdés, and K. H. Bevan. Machine Learning Based Electronic Structure Predictors in Single‐Atom Alloys: A Model Study of CO Kink‐Site Adsorption across Transition Metal Substrates. [The Journal of Physical Chemistry C (2023)](https://doi.org/10.1021/acs.jpcc.3c02705)
+- Y. W. Foong, J. Shirani, S. Yuan, C. A. Howard, K. H. Bevan. Towards a Pseudocapacitive Battery: Benchmarking the Capabilities of Quantized Capacitance for Energy Storage. [PRX Energy 1.1 (2022): 013007.](https://doi.org/10.1103/PRXEnergy.1.013007)
+- A. Iqbal, S. Yuan, Z. Wang, and K. H. Bevan. The impact of bulk trapping phenomena on the maximum attainable photovoltage of semiconductor‐liquid interfaces. [The Journal of Physical Chemistry C 122.42 (2018): 23878‐23889.](https://doi.org/10.1021/acs.jpcc.8b06854)
+
+---
+
 
 ## My long-term goals
 
