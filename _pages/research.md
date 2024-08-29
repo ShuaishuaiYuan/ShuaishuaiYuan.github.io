@@ -43,7 +43,7 @@ migration at the nanoscale in inorganic perovskites. [Nano Letters 20.10 (2020):
 
 ## My long-term goals
 
-* Extend simulations with first-principles accuracy to the device level at large scale and to include many-body effects at small scale.
+* Extend simulations with first-principles accuracy to the device level at large scale and include many-body effects at small scale.
 * Advance computational work to gain predictive power and achieve results comparable to experiments.
 * Design quantum materials from atomic level
 * Build a bridge between model studies and ab initio calculations.
