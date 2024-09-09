@@ -45,8 +45,8 @@ migration at the nanoscale in inorganic perovskites. [Nano Letters 20.10 (2020):
 
 * Extend simulations with first-principles accuracy to the device level at large scale and include many-body effects at small scale.
 * Advance computational work to gain predictive power and achieve results comparable to experiments.
-* Design quantum materials from atomic level
-* Build a bridge between model studies and ab initio calculations.
+* Design quantum materials from atomic level.
+* Bridge the gap between model studies and ab initio calculations.
 
 
 ---
