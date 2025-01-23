@@ -1,5 +1,6 @@
 ---
 title: AI Materials Discovery
+excerpt: " Essential skills :）for a computational materials scientist in the AI ​​era "
 ---
 
 Machine learning and AI have become essential skills for computational materials scientists in the AI era. Here are some resources that have been particularly helpful to me:
