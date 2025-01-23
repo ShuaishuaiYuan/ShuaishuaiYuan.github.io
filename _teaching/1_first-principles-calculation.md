@@ -1,10 +1,12 @@
 ---
 title: Practical Guides to First-Principle Calculations
-excerpt: "As a conventional and rigourous computational materials scientist ^^"
+
 ---
 
-## Books
+These resources were invaluable to me as I developed into a 'conventional' and rigorous computational materials scientist before the AI era. However, I believe there is still essential knowledge we must acquire to remain rigorous and effective in this field.
 
+
+## Books
 
 * [**Lee**, *Computational Materials Science (An Introduction*)](https://doi.org/10.1201/9781315368429)
   * An excellent resource for beginners with a strong background in engineering and chemistry.
@@ -27,6 +29,6 @@ https://doi.org/10.1017/CBO9781139050807
 )
   * These books are suitable for adance users and can serve as a reference book
   
-## Useful tools
+## Tools for Beginners:
 * [Linux Command References](https://files.fosswire.com/2007/08/fwunixref.pdf)
 * [Common pre/post processing tools](https://shuaishuaiyuan.github.io/teaching/processing-tools)
