@@ -13,7 +13,7 @@ Machine learning and AI have become essential skills for computational materials
 * [MatterSim](https://github.com/microsoft/mattersim?tab=readme-ov-file)
   
 
-## Online Courses 
+## Selective Online Courses 
 
 * [By Aron Walsh](https://aronwalsh.github.io/MLforMaterials/Overview.html)
 * [By 
