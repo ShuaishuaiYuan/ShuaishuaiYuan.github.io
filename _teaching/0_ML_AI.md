@@ -21,9 +21,7 @@ Nando de Freitas](https://www.youtube.com/watch?v=4vGiHC35j9s)
 * [By Florian Marquardt](https://www.youtube.com/watch?v=qMp3s7D_8Xw&list=PLemsnf33Vij4eFWwtoQCrt9AHjLe3uo9_)
 
 
-## Papers
-
-Some papers that have been inspiring recently
+## Some papers that have been inspiring recently
 
 * [A generative model for inorganic materials design](https://www.nature.com/articles/s41586-025-08628-5)
 
