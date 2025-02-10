@@ -21,6 +21,21 @@ Nando de Freitas](https://www.youtube.com/watch?v=4vGiHC35j9s)
 * [By Florian Marquardt](https://www.youtube.com/watch?v=qMp3s7D_8Xw&list=PLemsnf33Vij4eFWwtoQCrt9AHjLe3uo9_)
 
 
+## Materials Database
+
+* [**Mateirals Project**, open web-based access to computed information on known and predicted materials ](https://next-gen.materialsproject.org/)
+* [**JARVIS**, Joint Automated Repository for Various Integrated Simulations](https://jarvis.nist.gov/)
+* [**NOMAD**, open source data management platform](https://nomad-lab.eu/prod/v1/docs/index.html/)
+* [**Materials Cloud**, Built for seamless sharing of resources in computational materials science ](https://www.materialscloud.org/learn/sections)
+*  ...
+
+## High-throughput computational workflow
+
+ *  [Automate](https://github.com/hackingmaterials/atomate) / [Automate2](https://github.com/materialsproject/atomate2?tab=readme-ov-file)
+ *  [AiiDA](https://aiida.readthedocs.io/projects/aiida-core/en/stable/tutorials/basic.html#tutorial-basic)
+ *  ...
+
+
 ## Some papers that have been inspiring recently
 
 * [A generative model for inorganic materials design](https://www.nature.com/articles/s41586-025-08628-5)
