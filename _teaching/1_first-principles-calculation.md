@@ -29,20 +29,6 @@ https://doi.org/10.1017/CBO9781139050807
 )
   * These books are suitable for adance users and can serve as a reference book
 
-## Materials Database
-
-* [**Mateirals Project**, open web-based access to computed information on known and predicted materials ](https://next-gen.materialsproject.org/)
-* [**JARVIS**, Joint Automated Repository for Various Integrated Simulations](https://jarvis.nist.gov/)
-* [**NOMAD**, open source data management platform](https://nomad-lab.eu/prod/v1/docs/index.html/)
-* [**Materials Cloud**, Built for seamless sharing of resources in computational materials science ](https://www.materialscloud.org/learn/sections)
-*  ......
-
-## High-throughput computational workflow
-
- *  [Automate](https://github.com/hackingmaterials/atomate) / [Automate2](https://github.com/materialsproject/atomate2?tab=readme-ov-file)
- *  [AiiDA](https://aiida.readthedocs.io/projects/aiida-core/en/stable/tutorials/basic.html#tutorial-basic)
- *  ......
-
 ## Tools for Beginners:
 * [Linux Command References](https://files.fosswire.com/2007/08/fwunixref.pdf)
 * [Common pre/post processing tools](https://shuaishuaiyuan.github.io/teaching/processing-tools)
