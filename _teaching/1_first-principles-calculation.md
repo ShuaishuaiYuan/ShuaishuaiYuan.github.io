@@ -1,6 +1,6 @@
 ---
 title: Practical Guides to First-Principle Calculations
-excerpt: "As a conventional and rigourous computational materials scientist ^^"
+excerpt: "Develop the skills to become a rigorous computational materials scientist."
 ---
 
 These resources were invaluable to me as I developed into a 'conventional' and rigorous computational materials scientist before the AI era. However, I believe there is still essential knowledge we must acquire to remain rigorous and effective in this field.
